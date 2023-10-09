@@ -30,3 +30,6 @@ The project's goal is to create an object recognition system that can identify t
 # Results
 
 ![Screenshot (33)](https://github.com/RitikaRathi11/object-detection/assets/99483887/f8d54054-e170-46d6-84b2-5797e9cff38b)
+![Screenshot1 (36)](https://github.com/RitikaRathi11/object-detection/assets/99483887/b1ae0a82-9fbc-4ece-a10b-d14f6e3fc019)
+![Screenshot1 (38)](https://github.com/RitikaRathi11/object-detection/assets/99483887/1eac05df-7651-47e3-ba15-7bed181d3475)
+
