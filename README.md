@@ -27,3 +27,6 @@ Ultimately, we are able to use MobilNet v1 to perform Real-Time Object Detection
 # FUTURE SCOPE OF THE PROJECT
 The project's goal is to create an object recognition system that can identify the 2-D and 3-D objects in a photograph. By improving the global or local properties, Object Detection systems' efficiency can be raised even more. The colour data is ignored in the proposed Object Detection approach, which only uses greyscale images. The colour information from the photographs can be utilised to more accurately identify objects because colour is so essential in robotics. Moreover, a built-in night vision option can be added to tracking devices and CCTV cameras. Due to its extensive coverage and different viewing angles for the tracked objects, multiview tracking can be used to overcome the aforementioned limitations and make the systems completely autonomous.
 
+# Results
+
+![Screenshot (33)](https://github.com/RitikaRathi11/object-detection/assets/99483887/f8d54054-e170-46d6-84b2-5797e9cff38b)
